@@ -100,9 +100,10 @@ def banner():
 
 	 \/      \/     \/      \/     \/        ''' + W)
 
-	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'thewhiteh4t')
-
-	print(G + '[>]' + C + ' Version    : ' + W + version + '\n')
+	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'Arief Isal')
+        print('\n' + G + '[>]' + C + ' Alamat : ' + W + 'Gebang')
+        print('\n' + G + '[>]' + C + ' Nomer : ' + W + 081221353640')
+        print(G + '[>]' + C + ' Version    : ' + W + version + '\n')
 
 def ver_check():
 
