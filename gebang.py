@@ -99,8 +99,7 @@ def banner():
 /____  > \___  >\___  >|__|_ \ \___  >|__|
 
 	 \/      \/     \/      \/     \/        ''' + W)
-
-	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'Arief Isal')
+        print('\n' + G + '[>]' + C + ' Created By : ' + W + 'Arief Isal')
         print('\n' + G + '[>]' + C + ' Alamat : ' + W + 'Gebang')
         print('\n' + G + '[>]' + C + ' Nomer : ' + W + 081221353640')
         print(G + '[>]' + C + ' Version    : ' + W + version + '\n')
