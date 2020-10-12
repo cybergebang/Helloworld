@@ -109,7 +109,7 @@ def ver_check():
 
 	print(G + '[+]' + C + ' Checking for Updates.....', end='')
 
-	ver_url = 'https://raw.githubusercontent.com/thewhiteh4t/seeker/master/version.txt'
+	ver_url = 'https://raw.githubusercontent.com/cybergebang/Helloworld/master/version.txt'
 
 	try:
 
