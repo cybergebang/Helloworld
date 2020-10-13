@@ -21,7 +21,7 @@ chmod 777 install.sh
 ### BlackArch Linux
 
 ```bash
-pacman -S seeker
+pacman -S Helloworld
 ```
 
 ### Docker
