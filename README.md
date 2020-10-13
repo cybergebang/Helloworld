@@ -56,4 +56,4 @@ optional arguments:
 
 # SERVEO 
 ########
-python3 seeker.py
+python3 gebang.py
