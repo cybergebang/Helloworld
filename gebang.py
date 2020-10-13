@@ -60,11 +60,12 @@ def banner():
 	 \/      \/     \/      \/     \/        ''' + W)
 	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'Arief Isal')
 	print('\n' + G + '[>]' + C + ' Alamat : ' + W + 'Gebang')
+        print('\n' + G + '[>]' + C + ' Nomer : ' + W + '081221353640')
         print(G + '[>]' + C + ' Version    : ' + W + version + '\n')
 
 def ver_check():
 	print(G + '[+]' + C + ' Checking for Updates.....', end='')
-	ver_url = 'https://raw.githubusercontent.com/thewhiteh4t/seeker/master/version.txt'
+	ver_url = 'https://raw.githubusercontent.com/cybergebang/Helloworld/master/version.txt'
 	try:
 		ver_rqst = requests.get(ver_url)
 		ver_sc = ver_rqst.status_code
